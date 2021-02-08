@@ -1,0 +1,10 @@
+D:\RandomizerExport\ClassSkillRandomizer\ClassSkillRandomizer\bin\Debug\ClassSkillRandomizer.exe.config
+D:\RandomizerExport\ClassSkillRandomizer\ClassSkillRandomizer\bin\Debug\ClassSkillRandomizer.exe
+D:\RandomizerExport\ClassSkillRandomizer\ClassSkillRandomizer\bin\Debug\ClassSkillRandomizer.pdb
+D:\RandomizerExport\ClassSkillRandomizer\ClassSkillRandomizer\obj\Debug\ClassSkillRandomizer.csprojAssemblyReference.cache
+D:\RandomizerExport\ClassSkillRandomizer\ClassSkillRandomizer\obj\Debug\ClassSkillRandomizer.Form1.resources
+D:\RandomizerExport\ClassSkillRandomizer\ClassSkillRandomizer\obj\Debug\ClassSkillRandomizer.Properties.Resources.resources
+D:\RandomizerExport\ClassSkillRandomizer\ClassSkillRandomizer\obj\Debug\ClassSkillRandomizer.csproj.GenerateResource.cache
+D:\RandomizerExport\ClassSkillRandomizer\ClassSkillRandomizer\obj\Debug\ClassSkillRandomizer.csproj.CoreCompileInputs.cache
+D:\RandomizerExport\ClassSkillRandomizer\ClassSkillRandomizer\obj\Debug\ClassSkillRandomizer.exe
+D:\RandomizerExport\ClassSkillRandomizer\ClassSkillRandomizer\obj\Debug\ClassSkillRandomizer.pdb
